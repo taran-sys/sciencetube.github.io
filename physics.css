@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin: 0px;
+  }
+  .navbar{
+    background-color: black;
+    opacity: 0.8;
+    
+  }
+  
+ 
+  .active{
+    color: rgb(187, 179, 179);
+   
+  }
+  .active:hover{
+    color: white;
+   
+  }
+  .toggle{
+    color: white;
+    padding-right: 30px;
+  }
+  .nav_a{
+    color: white;
+    text-decoration: none;
+  
+  }
+  .nav_a:hover{
+    color: rgb(187, 179, 179);
+    text-decoration: none;
+  
+  }
+  
+  .nav_art{
+      color: black;
+  }
+  .nav_art:hover{
+    color: black;
+}
+  .nav-item{
+    padding-left: 50px;
+
+  }
+  .middle{
+      padding-top: 70px;
+  }
+  .cardi{
+      float: left;
+  }
+  .card-imgh{
+    
+      padding: 1.25rem;
+      width: 500px;
+      height: 200px;
+  }
+  .card-b{
+      float: right;
+  }
+  .cler{
+      clear: both;
+  }
+  .ad-1{
+      height: 80px;
+      width: 100%;
+      background-color: blue;
+      opacity: 0.5;
+      margin-bottom: 20px;
+  }
+  
